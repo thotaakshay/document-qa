@@ -17,3 +17,11 @@ A simple Streamlit app that answers questions about an uploaded document via Ope
    ```
    $ streamlit run streamlit_app.py
    ```
+
+### JUnit test generator
+
+This repository also includes a Streamlit UI for generating JUnit tests. Run it with:
+
+```bash
+$ streamlit run junit_test_generator_app.py
+```
